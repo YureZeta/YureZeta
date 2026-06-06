@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, my name is Francisco Yure and i'm studing Game development, sistems, aplications and landig pages design.
+# This is my Git perfil, nice to meet you
 
-<!--
-**YureZeta/YureZeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div aligment="center"> 
 
-Here are some ideas to get you started:
+# My Stacks on GameDev:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+<div aligment="center"> 
+
+# My Stacks on WebDev:
+
+
+</div>
+
+<div aligment="center"> 
+
+# My Stacks on Designer:
+
+
+</div>
+
+<div aligment="center"> 
+
+# Activide:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YureZeta/YureZeta/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YureZeta/YureZeta/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YureZeta/YureZeta/output/snake.svg">
+</picture>
+
+</div>
