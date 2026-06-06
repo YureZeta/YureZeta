@@ -24,7 +24,7 @@
 
 <div aligment="center"> 
 
-# Activide:
+# Activity:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YureZeta/YureZeta/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YureZeta/YureZeta/output/snake.svg">
