@@ -42,9 +42,9 @@
 ### My Stacks on Designer 🖌:
 
 <div align="center">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gimp.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Pinterest.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://cdn.brandfetch.io/id9mVQlyB1/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B">   
+  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMP.svg">
+  <img alt="[Pinterest]" height="[200]" width="[200]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Pinterest.svg">
+  <img alt="[Canva]" height="[200]" width="[200]" src="https://cdn.brandfetch.io/id9mVQlyB1/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B">   
   </div>
 
 </div>
