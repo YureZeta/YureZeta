@@ -3,14 +3,14 @@
 
 <div aligment="center"> 
 
-# My Stacks on GameDev:
+### 💻 My Stacks on GameDev:
 
 
 </div>
 
 <div aligment="center"> 
 
-# My Stacks on WebDev:
+# My Stacks on Front-End:
 
 
 </div>
