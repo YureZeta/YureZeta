@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi+There%2C+I'm+Francisco+Yure!;Game+Developer+%7C+Designer+;%26+Programing+Studant;I+Love+Computers" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi+There%2C+I'm+Francisco+Yure!;Game+Developer+%7C+Designer+;Programing+Studant;I+Love+Computers" alt="Typing animation" />
 </div>
 
 <div align="center">
@@ -32,9 +32,9 @@
 ### My Stacks on Designer 🖌:
 
 <div align="center">
-  <img alt="[Icon]" height="75" width="75" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMP.svg">
-  <img alt="[Pinterest]" height="75" width="75" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Pinterest.svg">
-  <img alt="[Canva]"src="https://cdn.brandfetch.io/id9mVQlyB1/w/75/h/75/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B">   
+  <img alt="[Icon]" height="65" width="65" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMP.svg">
+  <img alt="[Pinterest]" height="65" width="65" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Pinterest.svg">
+  <img alt="[Canva]"src="https://cdn.brandfetch.io/id9mVQlyB1/w/65/h/65/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B">   
   </div>
 
 </div>
