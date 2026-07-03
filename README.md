@@ -1,11 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi+There%2C+I'm+Francisco+Yure!;Game+Developer+%7C+Designer+%26+RAG;Programing+Studant" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi+There%2C+I'm+Francisco+Yure!;Game+Developer+%7C+Designer+%26+Programing+Studant;I+Love+Computers" alt="Typing animation" />
 </div>
-# Hi there, my name is Francisco Yure and i'm studing Game development, sistems, aplications and landig pages design.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
+</div>
+
 ## This is my Git perfil, nice to meet you
 
 <div aligment="center"> 
-
 ### My Stacks on GameDev 👨‍💻:
 
  <div align="center">
@@ -18,6 +21,10 @@
   <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
   <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
   <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=godot,pycharm,vscode,py,cpp,lua,html,css,js" />
   </div>
 
 </div>
@@ -35,6 +42,10 @@
   <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
   <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Lua.svg">  
   <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">   
+  </div>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,lua,mysql" />
   </div>
 
 </div>
