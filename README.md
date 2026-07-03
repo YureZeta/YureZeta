@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
 </div>
 
-## This is my Git perfil, nice to meet you
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=420&lines=This+is+my+Git+perfil%E2%9C%A8;Nice+to+meet+you+%F0%9F%96%90%EF%B8%8F" alt="Typing SVG" />
 
 <div aligment="center"> 
   
