@@ -20,7 +20,7 @@
 
 <div aligment="center"> 
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&repeat=false&width=420&lines=My+Stacks+on+Full-Stack+%E2%9A%99%3A" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&repeat=false&width=420&lines=My+Stacks+on+Full-Stack+%E2%9A%99%3A" alt="Typing SVG" />
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,lua,mysql" />
