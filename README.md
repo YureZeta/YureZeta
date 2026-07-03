@@ -11,18 +11,6 @@
 <div aligment="center"> 
 ### My Stacks on GameDev 👨‍💻:
 
- <div align="center">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Godot.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PyCharm.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Lua.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
-  </div>
-
   <div align="center">
     <img src="https://skillicons.dev/icons?i=godot,pycharm,vscode,py,cpp,lua,html,css,js" />
   </div>
@@ -32,17 +20,6 @@
 <div aligment="center"> 
 
 ### My Stacks on Full-Stack ⚙:
-
-  <div align="center">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Lua.svg">  
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">   
-  </div>
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,lua,mysql" />
@@ -57,7 +34,7 @@
 <div align="center">
   <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMP.svg">
   <img alt="[Pinterest]" height="[200]" width="[200]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Pinterest.svg">
-  <img alt="[Canva]" height="[200]" width="[200]" src="https://cdn.brandfetch.io/id9mVQlyB1/w/250/h/250/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B">   
+  <img alt="[Canva]" height="[200]" width="[200]" src="https://cdn.brandfetch.io/id9mVQlyB1/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B">   
   </div>
 
 </div>
