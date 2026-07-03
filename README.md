@@ -32,8 +32,8 @@
 ### My Stacks on Designer 🖌:
 
 <div align="center">
-  <img alt="[Icon]" height="[80]" width="[80]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMPw/75/h/75.svg">
-  <img alt="[Pinterest]" height="[200]" width="[200]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Pinterestw/75/h/75.svg">
+  <img alt="[Icon]" height="75" width="75" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMP.svg">
+  <img alt="[Pinterest]" height="75" width="75" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Pinterest.svg">
   <img alt="[Canva]"src="https://cdn.brandfetch.io/id9mVQlyB1/w/75/h/75/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B">   
   </div>
 
