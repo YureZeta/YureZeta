@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi+There%2C+I'm+Francisco+Yure!;Game+Developer+%7C+Designer+%26+RAG;Programing+Studant" alt="Typing animation" />
+</div>
 # Hi there, my name is Francisco Yure and i'm studing Game development, sistems, aplications and landig pages design.
 ## This is my Git perfil, nice to meet you
 
