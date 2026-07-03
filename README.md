@@ -9,7 +9,8 @@
 ## This is my Git perfil, nice to meet you
 
 <div aligment="center"> 
-### My Stacks on GameDev 👨‍💻:
+  
+  ### My Stacks on GameDev 👨‍💻:
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=godot,pycharm,vscode,py,cpp,lua,html,css,js" />
@@ -19,7 +20,7 @@
 
 <div aligment="center"> 
 
-### My Stacks on Full-Stack ⚙:
+  ### My Stacks on Full-Stack ⚙:
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,lua,mysql" />
@@ -29,7 +30,7 @@
 
 <div aligment="center"> 
 
-### My Stacks on Designer 🖌:
+  ### My Stacks on Designer 🖌:
 
 <div align="center">
   <img alt="[Icon]" height="65" width="65" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMP.svg">
