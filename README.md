@@ -10,7 +10,7 @@
 
 <div aligment="center"> 
   
-  ### My Stacks on GameDev 👨‍💻:
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=420&lines=+My+Stacks+on+GameDev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A" alt="Typing SVG" />
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=godot,pycharm,vscode,py,cpp,lua,html,css,js" />
@@ -20,7 +20,7 @@
 
 <div aligment="center"> 
 
-  ### My Stacks on Full-Stack ⚙:
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=420&lines=My+Stacks+on+Full-Stack+%E2%9A%99%3A" alt="Typing SVG" />
 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,lua,mysql" />
@@ -30,7 +30,7 @@
 
 <div aligment="center"> 
 
-  ### My Stacks on Designer 🖌:
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=420&lines=+My+Stacks+on+Designer+%F0%9F%96%8C%3A" alt="Typing SVG" />
 
 <div align="center">
   <img alt="[Icon]" height="65" width="65" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIMP.svg">
