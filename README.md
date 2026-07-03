@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&width=420&lines=This+is+my+Git+perfil%E2%9C%A8;Nice+to+meet+you+%F0%9F%96%90%EF%B8%8F" alt="Typing SVG" />
 
 <div aligment="center"> 
-  ##
+__ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&repeat=false&width=420&lines=+My+Stacks+on+GameDev+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A" alt="Typing SVG" />
 
   <div align="center">
@@ -41,7 +41,9 @@
 </div>
 
 <div aligment="center"> 
-#
+
+___
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&width=450&lines=Activity%3A" alt="Typing SVG" />
 
 <picture>
