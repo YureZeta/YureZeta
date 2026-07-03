@@ -7,6 +7,7 @@
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=1000&width=420&lines=This+is+my+Git+perfil%E2%9C%A8;Nice+to+meet+you+%F0%9F%96%90%EF%B8%8F" alt="Typing SVG" />
+
 ---
 
 <div aligment="center"> 
